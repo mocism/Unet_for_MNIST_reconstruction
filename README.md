@@ -34,6 +34,6 @@ it is labeled as 7, but as human, I can't see it as 7 at all. So, the model give
 
 which can read as 5.
 
-
+Nevertheless, the model still work in most normal cases.
 
 
