@@ -13,7 +13,7 @@ Don't know why but i try to use [U-net](https://arxiv.org/abs/1505.04597) archet
 
 ## Architecture
 
-Referencing from U-net original paper of u-shape network where it has encoding path, decoding path and skip connection connecting the two side.
+Referencing from U-net original paper of u-shape network where it has encoding path, decoding path and skip connection connecting the two side. The model were adjusted to be used with 28X28 2D images.
 
 ![unet](https://imgur.com/0YKKLWI.png)
 
