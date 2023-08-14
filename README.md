@@ -22,7 +22,7 @@ Referencing from U-net original paper of u-shape network where it has encoding p
 
 The result indicate the posibilities of using the network to transform handwrithing image into the image of that number. The accuracy is around 0.88 with 5% loss.
 
-But there are some flaws in the MNIST data set that need to be consider. One main issue is that the image quality is so poor (there are some handwriting that are very bad).
+But there are some flaws in the MNIST dataset that need to be consider. One main issue is that the image quality is so poor (there are some handwriting that are very bad).
 
 Like in this image, 
 
